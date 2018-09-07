@@ -1,0 +1,7 @@
+{
+  "name": "fcm-notifications",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
